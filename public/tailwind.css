@@ -17846,7 +17846,7 @@ video {
 }
 
 .bg-pattern {
-  background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+  background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
 }
 
 .from-transparent {
@@ -49614,7 +49614,7 @@ video {
   }
 
   .sm\:bg-pattern {
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   }
 
   .sm\:from-transparent {
@@ -81026,7 +81026,7 @@ video {
   }
 
   .md\:bg-pattern {
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   }
 
   .md\:from-transparent {
@@ -112438,7 +112438,7 @@ video {
   }
 
   .lg\:bg-pattern {
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   }
 
   .lg\:from-transparent {
@@ -143850,7 +143850,7 @@ video {
   }
 
   .xl\:bg-pattern {
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   }
 
   .xl\:from-transparent {
@@ -175262,7 +175262,7 @@ video {
   }
 
   .\32xl\:bg-pattern {
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   }
 
   .\32xl\:from-transparent {

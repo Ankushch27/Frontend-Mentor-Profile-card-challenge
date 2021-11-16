@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'pattern': 'url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg)',
+        'pattern': 'url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg)',
       },
       backgroundPosition: {
         'pattern-pos': 'right 45vw bottom 25vw, left 47vw top 23vw'
